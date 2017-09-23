@@ -1,4 +1,4 @@
-# Main Title: Sub Title
+# Typescript Tutorial
 
 [![Version](https://img.shields.io/badge/version-2017.9.0-red.svg)](./CHANGELOG)  [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](./LICENSE)
 
